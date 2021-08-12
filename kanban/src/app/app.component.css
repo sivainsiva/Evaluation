@@ -1,0 +1,16 @@
+mat-sidenav{
+    width: 300px;
+    background: #673ab7;
+  }
+  .mat-sidenav-container{
+    height: 100vh;
+    
+  }
+  .mat-list-base .mat-list-item{
+    color: #d0d0d0;
+    cursor: pointer;
+  }
+  .mat-list-base .mat-list-item:hover{
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.18);
+  }
